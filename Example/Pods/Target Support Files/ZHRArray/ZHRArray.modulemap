@@ -1,0 +1,6 @@
+framework module ZHRArray {
+  umbrella header "ZHRArray-umbrella.h"
+
+  export *
+  module * { export * }
+}

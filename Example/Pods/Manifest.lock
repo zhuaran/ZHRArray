@@ -1,0 +1,16 @@
+PODS:
+  - ZHRArray (0.1.0)
+
+DEPENDENCIES:
+  - ZHRArray (from `../`)
+
+EXTERNAL SOURCES:
+  ZHRArray:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHRArray: ded3e30645326c2d732263756c88b7d3dfcd2bfd
+
+PODFILE CHECKSUM: ddc420acedb2c8bdb1ca2192efceac4e9b1eea48
+
+COCOAPODS: 1.10.1

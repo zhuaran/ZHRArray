@@ -22,7 +22,7 @@ pod 'ZHRArray'
 
 ## Author
 
-zhuaran@163.com, zhanghuaran@58.com
+zhuaran@163.com, zhuaran@163.com
 
 ## License
 
